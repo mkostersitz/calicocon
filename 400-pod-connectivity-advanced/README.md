@@ -127,7 +127,7 @@ calicoctl apply -f 420-bgp-peer.yaml
 You should see the following output when you apply the new bgp peer resource. 
 
 ```
-ubuntu@worker1:~$ calicoctl apply -f 420-bgp-peer.yaml
+ubuntu@host1:~$ calicoctl apply -f 420-bgp-peer.yaml
 Successfully applied 1 'BGPPeer' resource(s)
 ```
 
