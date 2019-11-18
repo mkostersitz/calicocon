@@ -6,7 +6,7 @@ The lab environment consists of 4 servers
 1. Kubernetes Master
 2. Worker Node 1
 3. Worker Node 2
-4. Standalone Host
+4. Standalone Host (That is the one you log into from the email)
 
 In this lab you will:
 * Access the lab and web-based terminal
